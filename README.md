@@ -1,1 +1,2 @@
 # Encore
+The program name is Encore. What it does is, it allows user to purchase tickets from different musicians across a variety of genres. When user is short of points to purchase a ticket, he or she is able to do simple math problem to earn more points. It is a simple client-server based program, where the client side is run as a command prompt and server side acknowledge whatever client decide to do. Encore deals with the SQLite database where the ticket informations are saved. This is a very vulnerable program.
